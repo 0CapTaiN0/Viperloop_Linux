@@ -1,4 +1,4 @@
-# Viperloop DNS Changer
+# Viperloop DNS Changer(Dont download!!!)
 
 Viperloop is a simple command-line tool to easily set and reset DNS settings on Linux systems, particularly useful for users in Iran. It is designed to work on most modern Linux distributions that use NetworkManager.
 
