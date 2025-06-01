@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
