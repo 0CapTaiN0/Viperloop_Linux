@@ -23,7 +23,7 @@ A simple tool to manage DNS settings on Linux systems. DNS Changer For Iranian p
 After installation, you can run the tool from anywhere in your terminal:
 
 ```bash
-viperdns
+Viperloop
 ```
 
 This will launch an interactive prompt to set or reset your DNS settings.
