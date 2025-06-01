@@ -27,7 +27,7 @@ setuptools.setup(
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "viperdns=Linux.main:main_cli",
+            "Viperloop=Linux.main:main_cli",
         ],
     },
     project_urls={
